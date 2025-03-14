@@ -29,16 +29,18 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## Technical & Analytical Skills 🚀
+✔️ Expertise in ETL (Extract, Transform, Load) to streamline data processing.
+✔️ Power Query Mastery – Generate Date Tables, derive Fiscal Months & Quarters for structured reporting.
+✔️ Power Pivot Proficiency – Establish relationships between datasets for meaningful insights.
+✔️ Data Model Optimization – Incorporate supplementary data to enhance reporting depth.
+✔️ DAX Expertise – Utilize calculated columns for advanced metrics and analytics.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Soft Skills & Business Acumen💡
+🎯 Deep understanding of Sales & Finance Reports for impactful analysis.
+🎯 Ability to design user-centric reports with a strategic approach.
+🎯 Efficiency-focused – Optimize report generation with fine-tuned performance.
+🎯 A structured and systematic approach to report planning and execution.
+
+## 🚀 This project showcases industry-level Excel analytics using Power Query, Power Pivot, and DAX to drive business insights.
+📩 Let’s connect!_(www.linkedin.com/in/gayaz-ahmed-shaik-513a79176)_ If you're looking for data-driven solutions, this project demonstrates my ability to translate raw data into meaningful business intelligence.
